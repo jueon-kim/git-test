@@ -2,7 +2,11 @@ team: panthers
 
 manager: sebastian
 
+<<<<<<< HEAD
 coach: shirley
+=======
+coach: Raymond
+>>>>>>> conflict-1
 
 member: 
 - violet
